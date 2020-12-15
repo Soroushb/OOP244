@@ -1,0 +1,5 @@
+Name: Soroush Bahrami
+Student Number: 152499182
+Email: sbahrami7@myseneca.ca
+Reflection:
+I think the main lesson of this workshop was overloading operators as members of the class. I also learned how to use a helper function: Friendship, and I practiced using dynamic memory. The thing that I struggled the most with was dynamic memory and writing the constructors in a wat that would not cause segmentation fault or memory leak. I found member operators and using input and output operators very easy. I need to focus on dynamic memory and constructors and try to practice them in the study week.
