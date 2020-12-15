@@ -1,0 +1,8 @@
+Name: Soroush Bahrami
+Student Number: 152499182
+Email: sbahrami7@myseneca.ca
+WS7 P2
+Reflection:
+The main lesson of this workshop was inheritance. In this workshop we had two classes, where motorVehicle was the base class and Truck, the derived class. I learned that the derived class has everything that its base class has, and that we add additional members to improve the class. I learned we can have two functions with the same identifier in both classes, and how we can access the one in the base class, which is called a shadowed member function. One of the interesting things that I learned was how we used the base class constructor while implementing the derived class constructor: Truck::Truck(const char* plate, int year, double max, const char* address) : MotorVehicle(plate,year);
+
+In addition to these, I practiced writing custom input and output operators and also aligning the output and setting width for it.
