@@ -1,0 +1,7 @@
+Name: Soroush Bahrami
+Student Number: 152499182
+Email: sbahrami7@matrix.senecacollege.ca
+Section: NAA
+WS3P2
+Reflection:
+By doing this week’s workshop, I learned how to define a class type, and how to code private data and public functions for it. I learned how to use those member functions to access the private data. Additionally, I learned some library facilities such as cout.precision() and cout.width which helped me to format the output. Fortunately, I didn’t struggle with this workshop as much as I did with the previous one, whether because this one was easier or I have gotten better by practicing, I don’t know. The only part that I did struggle with was outputting the MAX_WEIGHT and MIN_WEIGHT in a way which would not affect the output for those cargo weights which were either less than min or more than max. I also practiced using dynamic memory by allocating a dynamic array of characters which held the name of the cargo in the swap() function. I practiced using basic logic expressions as well.
