@@ -1,0 +1,5 @@
+Name: Soroush Bahrami
+Student Number: 152499182
+Email: sbahrami7@myseneca.ca
+Reflection: 
+By doing this week’s workshop, most importantly, I learned to implement a copy assignment operator and a copy constructor which had a very similar code. Beside that, I practiced implementing default and custom constructor, destructor and custom input and output which I learned in previous weeks. Fortunately, I did not struggle with this workshop as much as I did with some of the previous ones. I had difficulty with three things, resizing the dynamic array; which I managed to fixed by looking at the previous workshops, allocating and deallocating dynamic memory in a way that the program wouldn’t have memory leak, and most of all, with initializing the variables for each function or constructor. Fixing this problem was difficult, because the compiler of visual studio didn’t give me any errors and ran perfectly, but when I tried to submit it on matrix, it gave me an error which said the data members are not initialized and the conditional move is depended on them. Finally I managed to fix that problem as well.
