@@ -1,0 +1,6 @@
+Name:  Soroush Bahrami
+Student Number: 152499182
+Seneca Email: sbahrami7@myseneca.ca
+WS2 PART 2 
+Reflect:
+The main point of this workshop was learning to use dynamic arrays. The second part of this workshop was one of the most difficult assignments for me, and I struggled a lot to be able to get it right. My first problem was nesting objects. It was the first time I used a struct type in the declaration of another struct. After that, my problem was finding a way to deallocate the dynamic memory without losing the patterns. During the beginning of the lecture I learned to use a temporary array which I called “tempArr”. First, I didn’t allocate dynamic memory for it, but afterwards, I found that it causes a trouble. My biggest problem was memory leaks. I finished my code and everything worked fine, till I got the error on Matrix and found out I hadn’t deallocate memory for one of dynamic memories. I had no difficulty writing logics and other stuff which I had practiced a lot. I think my main problem was having not clearly understood the whole concept of dynamic memories.
