@@ -1,0 +1,5 @@
+Name: Soroush Bahrami
+Student Number: 152499182
+Email: sbahrami7@myseneca.ca	
+Reflection: 
+This week’s workshop was about function template. I learned how to write a template before a function which had parameters with unknown types. This week’s workshop was relatively short, and I didn’t struggle with it except for passing array of Boolean as a parameter. As for the answer of the pdf file, the purpose of constrained casts are to improve type safety and the syntax is like : static_cast<type>(expression) if it is a static cast.
