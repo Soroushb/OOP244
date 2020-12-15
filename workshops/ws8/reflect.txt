@@ -1,0 +1,5 @@
+Name: Soroush Bahrami 
+Student Number: 152499182
+Email: sbahrami7@myseneca.ca
+Reflection:
+The lesson of this workshop was polymorphism. I learned how to code an abstract base class, which was “Employee”, and code two developed classes which inherited from it which were “Engineer” and “Doctor”. Most importantly, I learned to use virtual functions, which are functions with same identifier in different classes which have different meanings for their own class. We had two virtual functions which were getSalary() and Display() and I learned that they can have different implementations in different classes. We call display() in insertion operator overload implementation, and since display() is a virtual function, we don’t need to implement it for other classes like previous workshops.(Answer to instructions question)In addition to these, there were some calculation parts which I practiced after a long time. Other than this, I practiced using width and ios::right again. I did not have much difficulty doing this workshop in general.
