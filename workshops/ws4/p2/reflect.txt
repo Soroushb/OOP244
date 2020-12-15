@@ -1,0 +1,7 @@
+Name : Soroush Bahrami
+Student no: 152499182
+Seneca email: sbahrami7@mysenecacollege.ca
+Date: 2020-06-20
+Reflect: 
+This week’s workshop was mainly about constructors and destructors. By doing these two parts I practiced using class, writing private data members and public member functions. One of the important things was writing default constructor and other constructors declaration in among other member functions. Writing definition for them was another challenge which I struggled in the second part. The first part was easy, but I struggled a lot with the second part. Above everything, I struggled a lot to write the set() function in such a way that it wouldn’t have memory leak. It took me a lot of time to figure it out. One of the interesting things which I learned was writing default values in function parameters. By doing this, we can specify that if the client has not written a value for that variable, what value it is assigned it. In fight() function, we removed const because in the update of this program, we needed to change one data of the objects, which we would not be able to do in the presence of “const”.
+
